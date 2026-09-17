@@ -1,4 +1,4 @@
-Zápisky
+Zápisky ble ble ble 
 git commit (vezme změny do lokálního repozitáře)
 git push (nahraje na remote server)
 git pull (vezme poslední změny a stáhne je)
